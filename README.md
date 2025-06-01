@@ -31,7 +31,8 @@ This repository contains curated solutions to LeetCode problems, **organized by 
 **Created by:** Yathaartha Srivastava <br/>
 [GITHUB](https://github.com/Yuvicodes1)
 [LINKEDIN](https://www.linkedin.com/in/yathaartha-srivastava-063758258)
-GMAIL-yathaarthaofficial007@gmail.com
+<br/>
+GMAIL - yathaarthaofficial007@gmail.com
 
 Feel free to connect or reach out for collaboration or feedback.
 
